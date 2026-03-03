@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+SandBox/
+*.pygtex
+*.sov
+*.vrb
+*.aux
+*.toc
+*.log
+*.nav
+*.out
+*.snm
+*.blg
+*.bbl
+*.bcf
+*.run.xml
+*.brf
+*~
+.ipynb_checkpoints/
+_minted-slides/
+_minted-slides_animated/
+__marimo__/
+models/
+
